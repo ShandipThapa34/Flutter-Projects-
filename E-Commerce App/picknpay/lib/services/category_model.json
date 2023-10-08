@@ -1,0 +1,78 @@
+{
+    "categories": [
+        {
+            "name": "Women's Fashion",
+            "subcategory": [
+                "Upper Wear",
+                "Lower Wear",
+                "Foot Wear"
+            ]
+        },
+        {
+            "name": "Men's Fashion",
+            "subcategory": [
+                "Upper Wear",
+                "Lower Wear",
+                "Foot Wear"
+            ]
+        },
+        {
+            "name": "Health & Beauty",
+            "subcategory": [
+                "Hair Care",
+                "Skin Care",
+                "Makeup",
+                "Fragrances"
+            ]
+        },
+        {
+            "name": "Watches & Accessories",
+            "subcategory": [
+                "Watches",
+                "Sunglasses",
+                "Jewellery"
+            ]
+        },
+        {
+            "name": "Electronic Devices",
+            "subcategory": [
+                "Smartphones",
+                "Laptops",
+                "Tablets",
+                "Cameras"
+            ]
+        },
+        {
+            "name": "TV & Home Appliances",
+            "subcategory": [
+                "Televisions",
+                "Large Appliances",
+                "Small Appliances"
+            ]
+        },
+        {
+            "name": "Groceries",
+            "subcategory": [
+                "Groceries",
+                "Beverages",
+                "Laundry & Household"
+            ]
+        },
+        {
+            "name": "Babies & Toys",
+            "subcategory": [
+                "Clothing & Accessories",
+                "Baby & Toddler Toys",
+                "Baby Gear"
+            ]
+        },
+        {
+            "name": "Home & Lifestyle",
+            "subcategory": [
+                "Furniture",
+                "Decoration",
+                "Music & Books"
+            ]
+        }
+    ]
+}
